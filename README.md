@@ -1,15 +1,26 @@
 ## NevvDevv Hackathon Project Template
 
-This repository provides a basic template to kickstart your next hackathon project. 
+This repository provides a basic template to kickstart your next hackathon project. Your one-liner project description should go here.
 
 ## Description
 
-ToDo
+### Links
+
+### Problem
+
+### Solution
+
+### Impact
 
 ## Features
 
-- Feature: Description
+- **Feature:** Description
+  
+## Tech Stack
 
+- **E.g. React**
+
+  
 ### Getting Started
 
 This template includes a basic project structure for the hackathon. 
